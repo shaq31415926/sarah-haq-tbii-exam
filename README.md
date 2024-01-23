@@ -24,6 +24,7 @@ cd sarah-haq-tbii-exam
 ```
 
 3. Run the code
+
 Mac:
 ```
 python3 app.py
