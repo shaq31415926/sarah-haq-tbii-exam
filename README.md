@@ -1,4 +1,4 @@
-# Sarah's Tech Basic II Exam project
+# Tech Basic II Exam project
 
 This repository contains Sarah Haq's Tech Basics II Exam Project code. 
 
