@@ -13,7 +13,7 @@ root.minsize(screen_width, screen_height)
 
 
 # option 2: use geometry, if you want to position where the gui frame launches
-# root.geometry(f'{screen_width}x{screen_height}+550+150')  # width, height, start_x, start_y
+#root.geometry(f'{screen_width}x{screen_height}+550+150')  # width, height, start_x, start_y
 
 
 def create_new_page(root):

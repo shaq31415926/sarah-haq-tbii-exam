@@ -13,4 +13,23 @@ This repository should contain the following:
 
 The `helpers.py` python script in the src folder contains two definitions that might be handy for you - clearing the widgets and placing a background image.
 
+## Instructions to run my app
+1. Clone my repository in a location of your choice
+```
+git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
+```
+2. Change the directory:
+```
+cd sarah-haq-tbii-exam
+```
+
+3. Run the code
+Mac:
+```
+python3 app.py
+```
+Windows:
+```
+python app.py
+```
 
